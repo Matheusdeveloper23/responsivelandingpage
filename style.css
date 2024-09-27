@@ -1,0 +1,37 @@
+.header {
+    background-color: #3b0050ff;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+button {
+    border-radius: 25px;
+    background-color: #ffc700ff;
+}
+
+.titulo {
+    font-size: 28px;
+    padding-left: 50px;
+}
+
+.titulo1 {
+    color:#ffc700ff;
+}
+
+.image {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 700px;
+    padding-top: 30px;
+    gap: 2px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
